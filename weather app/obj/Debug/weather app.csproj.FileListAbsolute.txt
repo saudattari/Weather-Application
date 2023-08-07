@@ -1,0 +1,15 @@
+E:\1Visual Repository\weather app\weather app\bin\Debug\weather app.exe.config
+E:\1Visual Repository\weather app\weather app\bin\Debug\weather app.exe
+E:\1Visual Repository\weather app\weather app\bin\Debug\weather app.pdb
+E:\1Visual Repository\weather app\weather app\bin\Debug\Newtonsoft.Json.dll
+E:\1Visual Repository\weather app\weather app\bin\Debug\Newtonsoft.Json.xml
+E:\1Visual Repository\weather app\weather app\obj\Debug\weather app.csproj.AssemblyReference.cache
+E:\1Visual Repository\weather app\weather app\obj\Debug\weather app.csproj.SuggestedBindingRedirects.cache
+E:\1Visual Repository\weather app\weather app\obj\Debug\weather_app.Form1.resources
+E:\1Visual Repository\weather app\weather app\obj\Debug\weather_app.Properties.Resources.resources
+E:\1Visual Repository\weather app\weather app\obj\Debug\weather app.csproj.GenerateResource.cache
+E:\1Visual Repository\weather app\weather app\obj\Debug\weather app.csproj.CoreCompileInputs.cache
+E:\1Visual Repository\weather app\weather app\obj\Debug\weather app.csproj.CopyComplete
+E:\1Visual Repository\weather app\weather app\obj\Debug\weather app.exe
+E:\1Visual Repository\weather app\weather app\obj\Debug\weather app.pdb
+E:\1Visual Repository\weather app\weather app\bin\Debug\Guna.UI2.dll
